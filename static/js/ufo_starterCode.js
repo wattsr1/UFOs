@@ -58,13 +58,13 @@ function updateFilters() {
     // matches the filter values
       for (filterId in filters) {
         if (obj[filterId] !== filters[filterId]) {
-          return false;
+          return false; 
         }
       }
       return true;
     });
     // build table based on filtered data from inputs
-    buildTable(filteredData);
+  buildTable(filteredData);
   }
   
 // 2. Attach an event to listen for changes to each filter
