@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #UFO Sighting Webpage
 
 ## Overview
@@ -32,3 +33,42 @@ Thought the webpage is functional and delivers on the required elements to displ
 1. Utilize dropdown lists containing the lists of the variables for each column in the table used in the filters.  This would remove the need to filter the table through trial and error and the accuracy of the information being entered for the filters.
 
 2. Initiate a reset or refresh button to delete all the filters entered by the user.  In its current form the user must manually delete any filter entries or refresh the browser to go to the complete table.  This is a minor issue if only one filter is entered however if all the filters are filled out it is not as user-friendly.
+=======
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/wattsr1/UFOs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wattsr1/UFOs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+>>>>>>> fdcb752323b19c5b846bd49641be84cc790446a3
