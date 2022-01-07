@@ -8,15 +8,18 @@ This project was developed to show how JavaScript can be implemented to create a
 The UFO Sightings webpage will start with the complete list of UFO sightings contained in the data set.  The user can scroll through the information in the same manner they would in any webpage.  At the top is a header containing the title of the webpage and below that a brief introduction to the purpose of the page.  On the left of the table there is a number of sections that the user can use to filter the table.  The original iteration of the webpage contained only a single filter for the data of the observations contained in the data set.  By expanding the filters the user can choose to filter on one variable or any other number of filters for the criteria that the filters that were introduced.  The data is presented in a table to the right of the filters that can be scrolled through to view the files.  The table includes the column headings which correspond with the filters
 
 Webpage Startup Screen
+
 <img src="Resources/webpage_startup.png" width="650" height="500">
 
 ### User interaction
 As mentioned above, the table of UFO sightings can be filtered based on specific criteria contained within the columns.  The place-holders in the filter input cells provide the user a guide for the data needed to filter within the selected column.  The user enters the filter value into the input box and hits enter to display the filtered table.  The user can continue to enter data into other filters or delete the value entered into the box to display the original dataset.
 
 Webpage with Single Filter Applied
+
 <img src="Resources/webpage_single_filter.png" width="650" height="500">
 
 Webpage with Multiple Filters Applied
+
 <img src="Resources/webpage_multiple_filters.png" width="700" height="600">
 
 The website can be viewed at the following link [UFO Sightings](https://wattsr1.github.io/UFOs/).
