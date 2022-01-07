@@ -1,4 +1,4 @@
-#UFO Sighting Webpage
+# UFO Sighting Webpage
 
 ## Overview
 This project was developed to show how JavaScript can be implemented to create and interactive and dynamic webpage that allows users to interact with the page and get a customized view based on selects they make.  In this case a dataset of UFO sightings in North America in 2010 was used to display a table containing the information about the data, location and facts about the sightings.  To allow the user to customize the view of the data, inputs for the user to filter the table was incorporated into the HTML code and through JavaScript the table is filtered based on the values that the user enters.  To create this site the view was created using HTML and CSS and the table and filters used JavaScript to execute the required actions.
